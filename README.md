@@ -1,6 +1,6 @@
 # sylvite
 
-An effort to make a nice collection of higher-level functionality and utility atop ggez.
+An effort to make a nice collection of higher-level functionality and utility atop ggez.  Currently only in the planning stages, since I don't really have time to make it happen full-time.
 
 See https://github.com/ggez/ggez/issues/235 for discussion.
 
@@ -31,3 +31,4 @@ Libraries that will probably be useful:
  * tiled (tile maps)
  * conrod (GUI)
  * hlua/rlua (scripting)
+ * radiant-rs (sprites)
